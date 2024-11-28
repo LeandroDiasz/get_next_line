@@ -22,4 +22,4 @@ Criar a função `get_next_line` que, a cada chamada, retorna a próxima linha d
 
 ## 🎯 Resultado
 
-Ao concluir este projeto, eu adiquiri uma habilidade prática fundamental para lidar com arquivos em baixo nível, algo que será essencial em outros projetos futuros.****
+Ao concluir este projeto, eu adiquiri uma habilidade prática fundamental para lidar com arquivos em baixo nível, algo que será essencial em outros projetos futuros.
